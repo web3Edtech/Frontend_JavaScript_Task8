@@ -1,2 +1,2 @@
-# Frontend_JavaScript_Task4
-Adding Interactive Features to Your Profile Page
+# Frontend_JavaScript_Task8
+Implementing a Responsive UI
